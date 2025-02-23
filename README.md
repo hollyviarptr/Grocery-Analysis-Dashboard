@@ -24,8 +24,6 @@ With a sleek purple-themed design, this dashboard enhances data visualization, m
 
 Check out the full interactive version of this dashboard on Power BI:  
 [🔗 Grocery Analysis Dashboard Using Power BI](https://app.powerbi.com/groups/me/reports/dab3d293-84ab-4e92-b330-19feab92fbc7)  
-
- 
 <br>
 🔍 Gain insights into sales performance, outlet distribution, and product trends with dynamic visualizations! 🎯
 
